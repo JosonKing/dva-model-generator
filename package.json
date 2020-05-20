@@ -1,0 +1,25 @@
+{
+  "name": "dva-model-generator",
+  "version": "0.1.0",
+  "description": "dva model generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosonKing/dva-model-generator.git"
+  },
+  "keywords": [
+    "react",
+    "dva",
+    "model",
+    "generator"
+  ],
+  "author": "Joson King",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JosonKing/dva-model-generator/issues"
+  },
+  "homepage": "https://github.com/JosonKing/dva-model-generator#readme"
+}
